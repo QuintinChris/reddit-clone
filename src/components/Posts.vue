@@ -17,8 +17,6 @@
 </template>
 
 <script>
-// left off at 1:33:28
-// https://www.youtube.com/watch?v=6Dg6uDL1bes&t=1904s
 // need to get date formatting to work
 import { parse, formatDistance } from "date-fns";
 

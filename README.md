@@ -2,6 +2,12 @@
 
 > A Reddit Clone built with Vue
 
+# stretch goals
+- [ ] Add other subreddits
+- [ ] Ability to search by subreddit
+- [ ] Order asc by upvotes
+- [ ] hosting
+
 ## Build Setup
 
 ``` bash
